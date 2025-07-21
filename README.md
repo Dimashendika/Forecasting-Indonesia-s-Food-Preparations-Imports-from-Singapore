@@ -4,7 +4,7 @@ To forecast Indonesia’s import value of food preparation products (HS Code 210
 
 ---
 
-## 📌 Objective
+##  Objective
 - Identify the top imported food preparation products.
 - Understand which ASEAN countries are the largest suppliers.
 - Analyze historical trends in trade values (2013–2023).
@@ -40,7 +40,7 @@ To forecast Indonesia’s import value of food preparation products (HS Code 210
 
 ---
 
-## 🧰 Tools & Libraries
+##  Tools & Libraries
 - `Python`
 - `Pandas`,
 - `Matplotlib`,
@@ -50,7 +50,7 @@ To forecast Indonesia’s import value of food preparation products (HS Code 210
 
 ---
 
-## 📊 Key Results
+##  Key Results
 - HS 210690 ("Food preparations, n.e.s.") was the **top imported product** in 2023: **248.36 million USD**.
 - **Singapore and Malaysia** were the main suppliers (101M and 90M USD respectively).
 - Trade surged post-COVID (2020–2022) before declining slightly in 2023.
